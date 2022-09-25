@@ -86,7 +86,19 @@
                   <!-- target="_blank" -->
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="portfolio-gallery-filter.html">ABOUT OMEANS</a>
+                  <a class="nav-link" href="portfolio-gallery-filter.html">ABOUT</a>
+                  <!-- target="_blank" -->
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://arishadisopiyan.github.io/portfolio.html">CONTACT</a>
+                  <!-- target="_blank" -->
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://arishadisopiyan.github.io/portfolio.html">ASSETS</a>
+                  <!-- target="_blank" -->
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://arishadisopiyan.github.io/portfolio.html">FORUM</a>
                   <!-- target="_blank" -->
                 </li>
                 <!-- Dropdown -->
@@ -119,7 +131,7 @@
                 <!-- </li> -->
                 
                 <li class="nav-item">
-                  <a class="nav-link" href="https://arishadisopiyan.github.io/portfolio.html">CONTACT</a>
+                  <a class="nav-link" href="portfolio-gallery-filter.html">GUIDELINES</a>
                   <!-- target="_blank" -->
                 </li>
               </ul>
