@@ -7,20 +7,20 @@
         <!-- Responsive viewport meta tag -->
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- End Required meta tags -->
-      <link rel="icon" href="assets/images/omeans-icon/icon.gif" type="image/gif" sizes="16x16"> 
+      <link rel="icon" href="../../assets/images/omeans-icon/icon.gif" type="image/gif" sizes="16x16"> 
 
         <!-- Start CSS -->
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-        <link rel="stylesheet" href="assets/css/ts.css">
-        <link rel="stylesheet" href="assets/css/my-style.css">
-        <link rel="stylesheet" href="assets/css/remove-scrollbar.css">
-        <link rel="stylesheet" href="assets/css/bg-color.css">
-        <link rel="stylesheet" href="assets/css/color.css">
-        <link rel="stylesheet" href="assets/css/like-github.css">
-        <link rel="stylesheet" href="assets/css/like-brackeys.css">
-        <link rel="stylesheet" href="assets/css/other-important.css">
+        <link rel="stylesheet" href="../../assets/css/ts.css">
+        <link rel="stylesheet" href="../../assets/css/my-style.css">
+        <link rel="stylesheet" href="../../assets/css/remove-scrollbar.css">
+        <link rel="stylesheet" href="../../assets/css/bg-color.css">
+        <link rel="stylesheet" href="../../assets/css/color.css">
+        <link rel="stylesheet" href="../../assets/css/like-github.css">
+        <link rel="stylesheet" href="../../assets/css/like-brackeys.css">
+        <link rel="stylesheet" href="../../assets/css/other-important.css">
         <!-- End CSS -->
 
         <!-- Start JavaScript -->
@@ -29,7 +29,7 @@
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script src="assets/js/btn-back-to-top.js"></script>
+        <script src="../../assets/js/btn-back-to-top.js"></script>
 </script>
         <!-- End JavaScript -->
         
@@ -44,7 +44,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
         
         <!-- Client Logo Carousel Offline -->
-        <link rel="stylesheet" type="text/css" href="assets/css/slick-slider.css"/>        
+        <link rel="stylesheet" type="text/css" href="../../assets/css/slick-slider.css"/>        
         <!-- End Client Logo Carousel -->
         <!-- End Client Logo Carousel -->
         <!-- End Client Logo Carousel -->
@@ -56,7 +56,7 @@
         
         <!-- Back To Top Image -->
         <!-- Back To Top Image -->
-        <img src="assets/images/svg/arrow-up-circle-fill-omeans-6-color.svg" onclick="topFunction()" id="myBtn" class="rounded-circle change-img">
+        <img src="../../assets/images/svg/arrow-up-circle-fill-omeans-6-color.svg" onclick="topFunction()" id="myBtn" class="rounded-circle change-img">
         <!-- Back To Top Icon -->
         <!-- <i onclick="topFunction()" id="myBtn" class="bi bi-arrow-up-circle-fill"></i> -->
         <!-- Back To Top Font -->
@@ -175,15 +175,15 @@
           <div class="container mrg-t32">
           <h2 class="text-center fw-bold">OUR TOOLS</h2>
           <section class="logo-carousel slider mrg-t32" data-arrows="true">
-              <div class="slide"><img src="assets/images/tools/adobe-premiere-pro-icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Adobe_Illustrator_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Adobe_Photoshop_CC_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Adobe_XD_CC_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Blender_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Corel_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Maya_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Sketchup_icon.webp"></div>
-              <div class="slide"><img src="assets/images/tools/Unity_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/adobe-premiere-pro-icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Adobe_Illustrator_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Adobe_Photoshop_CC_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Adobe_XD_CC_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Blender_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Corel_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Maya_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Sketchup_icon.webp"></div>
+              <div class="slide"><img src="../../assets/images/tools/Unity_icon.webp"></div>
             </section>
           </div>
       </div>
@@ -262,7 +262,7 @@
         <!-- Start Client Logo Carousel -->
         <!-- Start Client Logo Carousel -->
         <!-- Agar ukuran logo kecil dan slide jalan -->
-        <script src="assets/js/slick-slider.js"></script>
+        <script src="../../assets/js/slick-slider.js"></script>
         <!-- End Client Logo Carousel -->
         <!-- End Client Logo Carousel -->
         <!-- End Client Logo Carousel -->
