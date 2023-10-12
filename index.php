@@ -1,10 +1,10 @@
 <?php
 
 $request = $_SERVER['REQUEST_URI'];
-$viewDir = '/components/views/';
+$viewDir = 'components/views/';
 
 switch ($request) {
-    case '':
+    // case '':
     case '/':
         require __DIR__ . $viewDir . 'index.php';
         break;
