@@ -1,11 +1,11 @@
 <?php
 
 $request = $_SERVER['REQUEST_URI'];
-$viewDir = '/omeansteam/omeansteam.github.io';
+$viewDir = "/omeansteam/omeansteam.github.io";
 
 switch ($request) {
-    case '/':
-        require  . $viewDir . '/components/views/index.php';
+    case $viewDir .'/':
+        require "components/views/index.php";
         break;
     default:
         http_response_code(404);
