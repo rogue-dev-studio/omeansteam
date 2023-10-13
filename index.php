@@ -1,7 +1,7 @@
 <?php
 
 $request = $_SERVER['REQUEST_URI'];
-$viewDir = 'omeansteam/omeansteam.github.io/components/views/';
+$viewDir = '/omeansteam/omeansteam.github.io/components/views/';
 
 switch ($request) {
     case '':
