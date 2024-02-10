@@ -9,13 +9,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/omeans-team"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/omeans_team"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=omeans-team">
-  <img align="right" src="https://komarev.com/ghpvc/?username=omeans-team&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=omeans_team">
+  <img align="right" src="https://komarev.com/ghpvc/?username=omeans_team&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018d937d-9efd-4e7c-a4ba-ff2f2235fff9.svg)](https://wakatime.com/@018d937d-9efd-4e7c-a4ba-ff2f2235fff9)
@@ -23,39 +23,39 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://omeans-team.com">Omeans Team</a></b>
+                <b><a target="_blank" href="https://omeans_team.com">Omeans Team</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=omeans-team">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=omeans_team">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://omeans-team.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="omeans-team" />
+ <a href="https://omeans_team.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="omeans_team" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omeans-team"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omeans_team"/>
  </a>
- <!-- <a href="https://dev.to/omeans-team" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="omeans-team" />
+ <!-- <a href="https://dev.to/omeans_team" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="omeans_team" />
  </a> -->
- <a href="https://twitter.com/_omeans-team" target="_blank">
+ <a href="https://twitter.com/_omeans_team" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_omeans-team" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="omeans-team" />
+ <a href="https://instagram.com/_omeans_team" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="omeans_team" />
  </a> 
- <a href="https://facebook.com/omeans-team.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="omeans-team"  />
+ <a href="https://facebook.com/omeans_team.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="omeans_team"  />
   </a> 
 </p>
 <br />
@@ -68,8 +68,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: omeans-team.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/omeans-team/omeans-team/issues)
+ 📧 &emsp; Reach me anytime: omeans_team.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/omeans_team/omeans_team/issues)
 
 </p>
 
@@ -103,13 +103,13 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans-team/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans-team/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans-team/web-projects)
-[![Omeans Team Readme](https://github-readme-stats.vercel.app/api/pin/?username=omeans-team&repo=omeans-team&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans-team/omeans-team)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=omeans_team&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans_team/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=omeans_team&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans_team/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=omeans_team&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans_team/web-projects)
+[![Omeans Team Readme](https://github-readme-stats.vercel.app/api/pin/?username=omeans_team&repo=omeans_team&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/omeans_team/omeans_team)
 
 <p align="left">
-  <a href="https://github.com/omeans-team?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/omeans_team?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -117,22 +117,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/omeans-team">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeans-team&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/omeans_team">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omeans_team&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/omeans-team">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeans-team&theme=radical" alt="Omeans Team's GitHub Contribution"/>
+  <a href="https://github.com/omeans_team">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeans_team&theme=radical" alt="Omeans Team's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/omeans-team"><img alt="Omeans Team's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=omeans-team&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/omeans-team"><img alt="Omeans Team's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=omeans-team&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/omeans_team"><img alt="Omeans Team's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=omeans_team&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/omeans_team"><img alt="Omeans Team's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=omeans_team&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Omeans Team's Graph](https://github-readme-activity-graph.vercel.app/graph?username=omeans-team&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Omeans Team's Graph](https://github-readme-activity-graph.vercel.app/graph?username=omeans_team&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
